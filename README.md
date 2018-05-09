@@ -204,3 +204,7 @@ https://github.com/datasploit/datasploit
 ### QueueUp
 QueueUp is an open-source mobile app helping you to find the perfect teammates in various online games. 
 http://queueup.gg/
+
+### Point-Free
+We run a video series on functional programming and Swift, and we've open sourced the entire website (written in server side Swift), as well as frameworks for making server side applications and adding important type safety tools to the Swift language.
+https://www.github.com/pointfreeco
